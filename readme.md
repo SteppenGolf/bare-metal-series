@@ -60,3 +60,4 @@ It's recommended that you install the [ST-Link drivers](https://www.st.com/en/de
 You'll also need to install the [open source ST-Link debugging tools](https://github.com/stlink-org/stlink). The primary application you'll need from that tool-set is *stutil*. Verify that *stutil* is available in your path before attempting to use the VSCode ST-Link debugging tasks.
 
 Once your drivers and debugging tools are installed, you can use the "ST-Link: Debug Application" and "ST-Link: Attach active" VSCode tasks to debug your firmware over ST-Link.
+## Debugging and flashing  dont work for me. I recommend using st-flash utility from terminal 
