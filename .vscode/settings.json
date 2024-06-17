@@ -10,6 +10,13 @@
     "pins.h": "c",
     "sync.h": "c",
     "ring-buffer.h": "c",
-    "flash_common_all.h": "c"
-  }
+    "flash_common_all.h": "c",
+    "common-defines.h": "c",
+    "memorymap.h": "c",
+    "stdbool.h": "c",
+    "stdint.h": "c",
+    "rcc.h": "c"
+  },
+  "ros.distro": "humble",
+  "python.REPL.enableREPLSmartSend": false
 }
