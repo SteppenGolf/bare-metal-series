@@ -15,7 +15,12 @@
     "memorymap.h": "c",
     "stdbool.h": "c",
     "stdint.h": "c",
-    "rcc.h": "c"
+    "rcc.h": "c",
+    "system.h": "c",
+    "uart.h": "c",
+    "usart.h": "c",
+    "usart_common_f24.h": "c",
+    "nvic.h": "c"
   },
   "ros.distro": "humble",
   "python.REPL.enableREPLSmartSend": false
